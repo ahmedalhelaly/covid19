@@ -1,0 +1,14 @@
+setup.py
+covid19/__init__.py
+covid19/items.py
+covid19/middlewares.py
+covid19/pipelines.py
+covid19/pipelines_SQLite.py
+covid19/settings.py
+covid19/spiders/__init__.py
+covid19/spiders/covid_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

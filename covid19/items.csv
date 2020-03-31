@@ -1,0 +1,200 @@
+active_cases,country,critical_cases,new_cases,new_deaths,total_cases,total_deaths,total_recovered
+"4,735",China,"1,573",None,None,"81,171","3,277","73,159"
+"54,030",Italy,"3,393","+5,249",+743,"69,176","6,820","8,326"
+"52,579",USA,"1,175","+9,921",+145,"53,655",698,378
+"35,273",Spain,"2,636","+6,922",+680,"42,058","2,991","3,794"
+"29,542",Germany,23,"+3,935",+36,"32,991",159,"3,290"
+"13,964",Iran,None,"+1,762",+122,"24,811","1,934","8,913"
+"17,923",France,"2,516","+2,448",+240,"22,304","1,100","3,281"
+"9,624",Switzerland,141,"+1,082",+2,"9,877",122,131
+"5,410",S. Korea,59,+76,+9,"9,037",120,"3,507"
+"7,520",UK,20,"+1,427",+87,"8,077",422,135
+"5,282",Netherlands,435,+811,+63,"5,560",276,2
+"5,246",Austria,22,+809,+7,"5,283",28,9
+"3,686",Belgium,381,+526,+34,"4,269",122,461
+"2,848",Norway,44,+241,+2,"2,866",12,6
+"2,654",Canada,1,+701,+2,"2,792",26,112
+"2,307",Portugal,48,+302,+10,"2,362",33,22
+"2,191",Australia,11,+430,+1,"2,317",8,118
+"2,243",Sweden,143,+253,+13,"2,299",40,16
+"2,199",Brazil,18,+323,+12,"2,247",46,2
+"1,874",Israel,34,+488,+2,"1,930",3,53
+"1,828",Turkey,None,+343,+7,"1,872",44,None
+"1,425",Malaysia,64,+106,+2,"1,624",16,183
+"1,558",Denmark,69,+131,+8,"1,591",32,1
+"1,381",Czechia,19,+158,+2,"1,394",3,10
+"1,317",Ireland,29,+204,+1,"1,329",7,5
+865,Japan,54,+65,+1,"1,193",43,285
+"1,085",Luxembourg,3,+224,None,"1,099",8,6
+"1,052",Ecuador,2,+101,+9,"1,082",27,3
+947,Pakistan,5,+97,+1,972,7,18
+903,Chile,7,+176,None,922,2,17
+890,Poland,3,+152,+2,901,10,1
+771,Thailand,7,+106,+3,827,4,52
+703,Romania,15,+218,+5,794,12,79
+781,Finland,11,+92,None,792,1,10
+738,Saudi Arabia,None,+205,+1,767,1,28
+694,Greece,35,+48,+3,743,20,29
+115,Diamond Princess,15,None,+2,712,10,587
+601,Indonesia,None,+107,+6,686,55,30
+595,Iceland,13,+60,+1,648,2,51
+400,Singapore,14,+49,None,558,2,156
+550,South Africa,2,+152,None,554,,4
+497,Philippines,1,+90,+2,552,35,20
+486,India,None,+37,None,536,10,40
+485,Qatar,6,+25,None,526,,41
+472,Russia,8,+57,None,495,1,22
+473,Slovenia,12,+38,+1,480,4,3
+436,Panama,33,+98,None,443,6,1
+408,Peru,9,+21,+2,416,7,1
+302,Egypt,None,+36,+1,402,20,80
+212,Bahrain,2,+15,+1,392,3,177
+329,Argentina,None,+86,+2,387,6,52
+280,Hong Kong,4,+29,None,386,4,102
+376,Croatia,6,+67,None,382,1,5
+369,Colombia,None,+101,None,378,3,6
+362,Estonia,4,+17,None,369,,7
+359,Mexico,1,+51,+1,367,4,4
+306,Lebanon,4,+51,None,318,4,8
+214,Iraq,None,+50,+4,316,27,75
+303,Dominican Republic,None,+67,+3,312,6,3
+285,Serbia,21,+54,None,303,3,15
+221,Algeria,None,+34,+2,264,19,24
+235,Armenia,6,+14,None,249,,14
+201,UAE,2,+50,None,248,2,45
+212,Bulgaria,8,+17,None,218,3,3
+185,Taiwan,None,+21,None,216,2,29
+206,Lithuania,1,+30,+1,209,2,1
+183,New Zealand,None,+103,None,205,,22
+197,Slovakia,2,+18,None,204,,7
+196,Latvia,None,+17,None,197,,1
+152,Kuwait,5,+2,None,191,,39
+189,Uruguay,3,+27,None,189,,None
+162,San Marino,12,None,+1,187,21,4
+157,Hungary,6,+20,+1,187,9,21
+173,Costa Rica,4,+19,None,177,2,2
+159,Morocco,1,+27,+1,170,5,6
+163,Bosnia and Herzegovina,1,+32,+2,168,3,2
+162,Andorra,7,+31,None,164,1,1
+153,Jordan,None,+27,None,154,,1
+145,North Macedonia,1,+12,None,148,2,1
+117,Vietnam,3,+11,None,134,,17
+122,Moldova,10,+16,None,125,1,2
+118,Cyprus,3,+8,+2,124,3,3
+108,Albania,2,+19,+1,123,5,10
+89,Faeroe Islands,None,+4,None,122,,33
+103,Burkina Faso,None,+15,None,114,4,7
+109,Tunisia,11,+25,+1,114,4,1
+108,Malta,1,+3,None,110,,2
+102,Brunei,2,+13,None,104,,2
+98,Ukraine,None,+29,None,102,3,1
+100,Sri Lanka,2,+5,None,102,,2
+93,Réunion,None,+23,None,94,,1
+87,Cambodia,1,+4,None,91,,4
+76,Azerbaijan,6,+15,None,87,1,10
+78,Senegal,None,+7,None,86,,8
+67,Oman,None,+18,None,84,,17
+69,Venezuela,2,None,None,84,,15
+59,Belarus,None,None,None,81,,22
+72,Afghanistan,None,+34,None,74,1,1
+72,Guadeloupe,4,+11,None,73,1,None
+71,Ivory Coast,None,+48,None,73,,2
+72,Kazakhstan,None,+10,None,72,,None
+61,Georgia,1,+9,None,70,,9
+64,Cameroon,None,+10,None,66,,2
+44,Palestine,None,+1,None,60,,16
+56,Martinique,7,+4,None,57,1,None
+57,Trinidad and Tobago,None,+6,None,57,,None
+51,Ghana,None,+26,None,53,2,None
+51,Liechtenstein,None,None,None,51,,None
+50,Uzbekistan,None,+4,None,50,,None
+46,Cuba,2,+8,None,48,1,1
+46,Montenegro,None,+20,None,47,1,None
+43,DRC,None,+9,None,45,2,None
+41,Nigeria,None,+4,None,44,1,2
+40,Mauritius,1,+6,None,42,2,None
+42,Kyrgyzstan,None,+26,None,42,,None
+40,Rwanda,None,+4,None,40,,None
+30,Bangladesh,None,+6,+1,39,4,5
+36,Puerto Rico,None,+8,None,39,2,1
+36,Channel Islands,None,None,None,36,,None
+36,Mayotte,None,+12,None,36,,None
+31,Guam,None,+3,None,32,1,None
+30,Honduras,None,None,None,30,,None
+19,Macao,None,+4,None,29,,10
+29,Bolivia,None,+2,None,29,,None
+25,Paraguay,1,+5,+1,27,2,None
+25,French Polynesia,None,+7,None,25,,None
+25,Kenya,None,+9,None,25,,None
+22,Monaco,None,None,None,23,,1
+17,French Guiana,None,+3,None,23,,6
+23,Isle of Man,None,+10,None,23,,None
+20,Guatemala,None,+1,None,21,1,None
+18,Jamaica,None,+2,None,21,1,2
+19,Togo,None,+2,None,20,,1
+18,Barbados,None,+1,None,18,,None
+16,Aruba,None,+8,None,17,,1
+17,Madagascar,None,+5,None,17,,None
+17,U.S. Virgin Islands,None,None,None,17,,None
+10,Gibraltar,None,None,None,15,,5
+8,Maldives,None,None,None,13,,5
+12,Ethiopia,None,+1,None,12,,None
+12,Tanzania,None,None,None,12,,None
+10,Mongolia,None,None,None,10,,None
+10,New Caledonia,None,+2,None,10,,None
+9,Equatorial Guinea,None,None,None,9,,None
+9,Uganda,None,None,None,9,,None
+8,Saint Martin,None,None,None,8,,None
+7,Dominica,None,+5,None,7,,None
+7,Haiti,None,+1,None,7,,None
+5,Namibia,None,+3,None,7,,2
+7,Seychelles,None,None,None,7,,None
+7,Suriname,None,+2,None,7,,None
+5,Cayman Islands,None,+1,None,6,1,None
+5,Curaçao,None,+2,None,6,1,None
+5,Gabon,None,None,None,6,1,None
+6,Benin,None,None,None,6,,None
+6,Bermuda,None,None,None,6,,None
+4,Guyana,None,None,None,5,1,None
+4,Bahamas,None,+1,None,5,,1
+5,El Salvador,None,+2,None,5,,None
+3,Greenland,None,+1,None,5,,2
+4,Congo,None,None,None,4,,None
+4,Fiji,None,+1,None,4,,None
+4,Guinea,None,None,None,4,,None
+4,Vatican City,None,+3,None,4,,None
+4,Eswatini,None,None,None,4,,None
+2,Cabo Verde,None,None,+1,3,1,None
+2,Gambia,None,+1,None,3,1,None
+2,Sudan,None,+1,None,3,1,None
+2,Zimbabwe,None,None,None,3,1,None
+3,Angola,None,None,None,3,,None
+3,Antigua and Barbuda,None,None,None,3,,None
+3,CAR,None,None,None,3,,None
+3,Chad,None,+1,None,3,,None
+3,Djibouti,None,None,None,3,,None
+3,Liberia,None,None,None,3,,None
+3,Mozambique,None,+2,None,3,,None
+3,Myanmar,None,+1,None,3,,None
+3,Niger,None,None,None,3,,None
+3,St. Barth,None,None,None,3,,None
+3,Saint Lucia,None,None,None,3,,None
+3,Zambia,None,None,None,3,,None
+1,Nepal,None,None,None,2,,1
+2,Bhutan,None,None,None,2,,None
+2,Laos,None,+2,None,2,,None
+2,Mauritania,None,None,None,2,,None
+2,Nicaragua,None,None,None,2,,None
+2,Sint Maarten,None,None,None,2,,None
+1,Belize,None,None,None,1,,None
+1,Eritrea,None,None,None,1,,None
+1,Grenada,None,None,None,1,,None
+1,Libya,None,+1,None,1,,None
+1,Montserrat,None,None,None,1,,None
+1,Papua New Guinea,None,None,None,1,,None
+1,St. Vincent Grenadines,None,None,None,1,,None
+1,Somalia,None,None,None,1,,None
+1,Syria,None,None,None,1,,None
+1,Timor-Leste,None,None,None,1,,None
+1,Turks and Caicos,None,None,None,1,,None
+"294,215",Total:,"13,269","42,568","2,296","421,413","18,810","108,388"
