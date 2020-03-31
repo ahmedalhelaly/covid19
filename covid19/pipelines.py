@@ -9,7 +9,7 @@ from firebase import firebase
 
 
 class covid19Pipeline(object):
-    url = "https://cov19updates-b9843.firebaseio.com/"
+    url = ""
 
     def __init__(self):
         self.FBConn = firebase.FirebaseApplication(self.url, None)
