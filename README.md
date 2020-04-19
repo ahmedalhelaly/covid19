@@ -1,1 +1,2 @@
-# covid19
+# covid19 crawler
+python scrapy 
